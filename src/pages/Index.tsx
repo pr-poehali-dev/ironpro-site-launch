@@ -49,7 +49,7 @@ const products: Product[] = [
     brand: 'Russian Turbine',
     category: 'Экипировка',
     price: 12500,
-    image: 'https://cdn.poehali.dev/projects/beecfaca-13c4-4a33-91cc-25bf3cd72a49/files/642c639f-f240-4785-ad6e-521ef2beb1c2.jpg',
+    image: 'https://russianturbine.ru/upload/resize_cache/iblock/966/450_450_140cd750bba9870f18aada2478b24840a/1ntv5pm5huwlqf8j7zwipo1syrotqtxd.jpg',
     description: 'Майка однослойная для жима'
   },
   {
